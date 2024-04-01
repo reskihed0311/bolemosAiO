@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\reshed\hk416d\vgrip"
+        "$bumpmap" "models\reshed\hk416d\vgrip_normal"
+        "$envmap" "env_cubemap"
+        "$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/reshed/usp45/usp_d"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.05 0.05 0.05]"
+}
+

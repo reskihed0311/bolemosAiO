@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/reshed/mp7/t_1p_mp7_d"
+	"$bumpmap" "models/reshed/mp7/t_1p_mp7_n"
+	"$envmapmask" "models/reshed/mp7/t_1p_mp7_m"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+	"$envmaptint" "[0.01 0.01 0.01]"
+}

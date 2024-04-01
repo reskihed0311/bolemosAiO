@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\reshed\hk416d\pmag"
+	"$bumpmap"		"models\reshed\hk416d\pmag_norm"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}

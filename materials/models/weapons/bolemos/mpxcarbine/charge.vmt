@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\bolemos\mpxcarbine\charge"
+	"$envmap" "env_cubemap"
+	$color2 "[ .6 .6 .6 ]"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "10"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

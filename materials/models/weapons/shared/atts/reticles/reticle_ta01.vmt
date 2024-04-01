@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/shared/atts/reticles/reticle_ta01"
+	"$translucent" 1
+}

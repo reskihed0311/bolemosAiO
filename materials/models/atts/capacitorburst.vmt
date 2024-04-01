@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/atts/capacitorburst"
+	"$translucent" 1
+}

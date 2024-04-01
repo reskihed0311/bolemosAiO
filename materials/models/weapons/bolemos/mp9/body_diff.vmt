@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"		    "models\weapons\bolemos\mp9\body_diff"
+	"$bumpmap"   	        "models\weapons\bolemos\mp9\body_n"
+
+	
+	
+}

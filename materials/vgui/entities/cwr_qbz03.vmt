@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/cwr_qbz03"
+	"$nolod" 1
+	"$translucent" 1
+}

@@ -1,0 +1,1 @@
+list.Set("ContentCategoryIcons", "CW 2.0 - Bôlemos", "icon_placeholder.png")

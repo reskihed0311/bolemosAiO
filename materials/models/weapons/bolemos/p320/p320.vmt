@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\weapons\bolemos\p320\weapon_m9_dm"
+	"$bumpmap" 					"models\weapons\bolemos\p320\weapon_m9_nm"
+	"$phongexponenttexture"        			"models\weapons\bolemos\p320\weapon_m9_exp"    
+	"$color"					"[1.0 1.0 1.0]"
+
+	"$selfillum"                    "1"
+	"$selfillummask"                "models\weapons\bolemos\p320\weapon_m9_si"
+
+
+	"$phong"                        "1"
+	"$phongalbedotint"              "1"
+	"$phongtint"                    "[1 1 1]"
+
+	"$phongboost"                   "1"
+	"$phongfresnelranges"           "[1 2.5 7]"
+
+	"$envmap"                       "env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmaptint"                   "[.1 .1 .1]"
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/icons/rshd_hera"
+	"$translucent" 1
+}

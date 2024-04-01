@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\bolemos\m500\m500_black_d"
+	"$bumpmap"		"models\weapons\bolemos\m500\m500_n"
+
+	"$phong"                        "1"
+
+
+	"$phongboost"                   "1"
+	"$phongexponent"                "45"
+	"$phongfresnelranges"           "[.9 2 10]"
+
+	//"$phongalbedotint"		"1"
+	//$phongalbedoboost           40
+	"$phongtint"         "[.6 .8 1]"
+
+
+	"$envmap"                       "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"                   "[.002 .002 .002]"
+	"$envmapfresnel" "1"
+
+	$emissiveBlendEnabled		"1"
+	$emissiveBlendTexture		"color/white"
+	$emissiveBlendBaseTexture	"models/weapons/tfa_ins2/m500/m500_occult_emissive"
+	$emissiveBlendFlowTexture	"color/white"
+	$emissiveBlendStrength		"1"
+	$emissiveBlendScrollVector	"[0 0]"
+	$emissiveBlendTint			"[2 2 2]"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\bolemos\akm\t_akm_d_nogroove"
+	"$bumpmap" "models\weapons\bolemos\akm\T_AKM_N_Nogroove"
+	"$color" "[0.6 0.6 0.6]"	
+	"$color2" "[0.7 0.7 0.7]"	
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.25 0.5 1]"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "48"
+   	"$rimlight" "1"
+   	"$rimlightexponent" "80"   
+   	"$rimlightboost" "1"
+   	"$rimmask" "1"
+}

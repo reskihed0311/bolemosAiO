@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/icons/rshd_bcmgunfighter"
+	"$translucent" 1
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\weapons\shared\atts\glass"
+	"$translucent" 1
+	"$nodraw" 1
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\reshed\mp7\trit_white"
+	"$color" "[0 1 0.15]"
+}

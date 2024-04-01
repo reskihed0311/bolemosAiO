@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/icons/rshd_ps320"
+	"$translucent" 1
+}

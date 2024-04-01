@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\bolemos\mpxcarbine\stock_ar15_high_standart_m4ss_lod0_diff"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+	"$color2" "[0.69 0.69 0.69]"
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "10"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

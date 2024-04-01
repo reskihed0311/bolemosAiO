@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models\weapons\bolemos\mpxcarbine\v_mpx"
+	"$color2"                   		"[0.6 0.6 0.6]"
+//  	"$blendTintByBaseAlpha"     		"1"
+ 
+    	"$detail"				"detail\metal_detail_01"
+    	"$detailscale"			"2"
+    	"$detailblendfactor"          		"0.5"
+    	"$detailblendmode"          		"0"
+ 
+ 
+    	"$envmap"                   		"env_cubemap"
+    	"$envmaptint"              		"[ .03 .03 .03 ]"
+ 
+   	"$phong"                    		"1"
+   	"$phongexponent"            		"3"
+   	"$phongboost"               		"100"
+   	"$phongfresnelranges"       		"[0.25 0.5 1]"
+    	"$phongalbedotint"          		"1"
+    	"$phongalbedoboost"         		"48"
+ 
+   	"$rimlight"                 		"10"
+   	"$rimlightexponent"         		"80"   
+   	"$rimlightboost"            		"1"
+   	"$rimmask"                 		"1"
+}

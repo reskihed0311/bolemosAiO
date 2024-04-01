@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/cwr_bolemos_p320"
+	"$nocull" 1
+	"$translucent" 1
+}

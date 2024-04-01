@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/icons/rshd_leupoldmk4"
+	"$translucent" 1
+}

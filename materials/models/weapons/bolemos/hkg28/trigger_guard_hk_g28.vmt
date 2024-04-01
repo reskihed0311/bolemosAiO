@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	$basetexture				"models\weapons\bolemos\hkg28\trigger_guard_hk_g28_d"
+	$bumpmap					"models\weapons\bolemos\hkg28\trigger_guard_hk_g28_n"
+	"$phongexponenttexture"		"models\weapons\bolemos\hkg28\trigger_guard_hk_g28_s"
+                "$color2"					"[0.5 0.5 0.5]"
+//	"$color2"					"[0.3 0.3 0.3]"
+        $normalmapalphaenvmapmask	"1"
+	$envmap						env_cubemap
+	$envmaptint					"[ .07 .07 .07 ]"		
+	$phong						1
+	$phongexponent				55
+	$phongboost					0.95
+	$phongfresnelranges             "[.3 4 5]"
+        $rimmask					"1"
+        $rimlightexponent			"42.25"	
+	$rimlight					"1"
+	$rimlightboost		".08"
+        $nocull "1"
+}

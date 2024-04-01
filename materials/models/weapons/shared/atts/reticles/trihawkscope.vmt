@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/shared/atts/reticles/trihawkscope"
+	"$translucent" 1
+}

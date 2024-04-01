@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\reshed\qbz03\T_1P_QBZ03_D"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.01 0.01 0.01]"
+}

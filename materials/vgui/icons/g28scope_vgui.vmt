@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/icons/g28scope_vgui"
+	"$translucent" 1
+}

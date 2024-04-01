@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\reshed\g36c/g36c_classic"
+	"$color2" "[.5 .5 .5]"
+	// im using fas 1.0 model and texture because fas 2.0 ones are GARBAGE
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"24"
+	"$phongboost" 			"1.5"
+	"$phongfresnelranges"		"[0.5 1.5 3.0]"//"[0.1 0.4 .8]"
+	"$basemapalphaphongmask" 	"1"
+
+	"$halflambert"			"1"
+}

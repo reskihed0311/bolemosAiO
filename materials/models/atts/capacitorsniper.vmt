@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/atts/capacitorsniper"
+	"$translucent" 1
+}

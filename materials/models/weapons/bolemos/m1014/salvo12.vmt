@@ -1,0 +1,20 @@
+Vertexlitgeneric
+{
+	"$basetexture"	"models\weapons\bolemos\m1014\salvo_col"
+   	"$bumpmap"   	"models\weapons\bolemos\m1014\salvo_nor"
+
+
+
+     	"$normalmapalphaenvmapmask" "1"
+
+	"$envmap" 			"env_cubemap"
+	"$envmaptint" 			"[.007 .007 .007]"
+	
+	"$phongtint"			"[.6 .8 1]"
+	
+	"$phong" 			"1"
+	"$phongexponent"		"40"
+	"$phongboost" 			"1.8"
+	"$phongfresnelranges"		"[0.5 1.5 3.0]"//"[0.1 0.4 .8]"
+	"$halflambert"			"1"
+}

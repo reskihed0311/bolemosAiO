@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/shared/atts/reticles/razorsight"
+    $translucent "1"
+}
