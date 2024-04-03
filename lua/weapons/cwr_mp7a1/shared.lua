@@ -139,7 +139,7 @@ SWEP.Slot = 2
 SWEP.SlotPos = 0
 SWEP.NormalHoldType = "smg"
 SWEP.RunHoldType = "passive"
-SWEP.FireModes = {"semi"}
+SWEP.FireModes = {"auto", "semi"}
 SWEP.Base = "cw_base"
 SWEP.Category = "CW 2.0 - Bôlemos"
 
