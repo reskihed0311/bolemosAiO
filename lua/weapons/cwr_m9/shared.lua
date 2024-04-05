@@ -134,9 +134,9 @@ SWEP.AdminSpawnable		= true
 SWEP.Primary.ClipSize		= 15
 SWEP.Primary.DefaultClip	= 15
 SWEP.Primary.Automatic		= false
-SWEP.Primary.Ammo			= "pistol"
+SWEP.Primary.Ammo			= "9x19MM"
 
-SWEP.FireDelay = 0.15
+SWEP.FireDelay = 60 / 600
 SWEP.FireSound = "CW_M9FS_FIRE"
 SWEP.FireSoundSuppressed = "CW_M9FS_FIRE_SUPPRESSED"
 SWEP.Recoil = 1.05
@@ -148,7 +148,7 @@ SWEP.MaxSpreadInc = 0.052
 SWEP.SpreadPerShot = 0.007
 SWEP.SpreadCooldown = 0.13
 SWEP.Shots = 1
-SWEP.Damage = 24
+SWEP.Damage = 32
 SWEP.DeployTime = 0.6
 
 SWEP.ReloadSpeed = 1

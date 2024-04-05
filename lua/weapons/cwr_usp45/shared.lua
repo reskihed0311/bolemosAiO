@@ -134,7 +134,7 @@ SWEP.AdminSpawnable		= true
 SWEP.Primary.ClipSize		= 12
 SWEP.Primary.DefaultClip	= 12
 SWEP.Primary.Automatic		= false
-SWEP.Primary.Ammo			= "pistol"
+SWEP.Primary.Ammo			= ".45 ACP"
 
 SWEP.FireDelay = 0.15
 SWEP.FireSound = "CW_USP45_FIRE"
@@ -148,7 +148,7 @@ SWEP.MaxSpreadInc = 0.052
 SWEP.SpreadPerShot = 0.007
 SWEP.SpreadCooldown = 0.13
 SWEP.Shots = 1
-SWEP.Damage = 24
+SWEP.Damage = 39
 SWEP.DeployTime = 0.6
 
 SWEP.ReloadSpeed = 1
