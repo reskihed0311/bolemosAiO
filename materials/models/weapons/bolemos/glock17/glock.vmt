@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" models\weapons\bolemos\glock17/glock"
+	"$basetexture" "models\weapons\bolemos\glock17/glock"
 	"$bumpmap" "models\weapons\bolemos\glock17/glock_n"
 	"$phong"	"1"
 	"$phongexponent"	"4"
