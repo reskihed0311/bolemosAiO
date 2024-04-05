@@ -13,8 +13,8 @@ if CLIENT then
 	SWEP.CSMuzzleFlashes = true
 	SWEP.ViewModelMovementScale = 1
 	
-	SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_bolemos_m24")
-	killicon.Add( "cwr_bolemos_m500", "vgui/entities/cwr_bolemos_m24", Color(255, 0, 0, 0))
+	SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_bolemos_sv98")
+	killicon.Add( "cwr_bolemos_sv98", "vgui/entities/cwr_bolemos_sv98", Color(255, 0, 0, 0))
 	
 	SWEP.MuzzleEffect = "muzzleflash_SR25"
 	SWEP.PosBasedMuz = false
@@ -36,57 +36,54 @@ if CLIENT then
 	SWEP.IronsightPos = Vector(-3.241, -10.464, 1.279)
 	SWEP.IronsightAng = Vector(0, 0, 0)
 	
-	SWEP.PS320Pos = Vector(-3.28, -9.587, 0.28)
+	SWEP.PS320Pos = Vector(-3.241, -10.464, 0.05)
 	SWEP.PS320Ang = Vector(0, 0, 0)
 	
-	SWEP.AIMPROPos = Vector(-3.28, -9.587, 0.56)
+	SWEP.AIMPROPos = Vector(-3.221, -11.219, 0.33)
 	SWEP.AIMPROAng = Vector(0, 0, 0)
 	
-	SWEP.OKPPos = Vector(-3.161, -9.587, 0.639)
+	SWEP.OKPPos = Vector(-3.15, -10.464, 0.31)
 	SWEP.OKPAng = Vector(0, 0, 0)
 	
 	
 	
-	SWEP.EXPPos = Vector(-3.28, -9.587, 0.079)
+	SWEP.EXPPos = Vector(-3.221, -11.219, -0.11)
 	SWEP.EXPAng = Vector(0, 0, 0)
 	
-	SWEP.TRIPos = Vector(-3.28, -9.587, -0.08)
+	SWEP.TRIPos = Vector(-3.221, -11.219, -0.35)
 	SWEP.TRIAng = Vector(0, 0, 0)
 	
 	
-	SWEP.UH1Pos = Vector(-3.28, -12, 0.055)
+	SWEP.UH1Pos = Vector(-3.221, -11.219, -0.151)
     SWEP.UH1Ang	= Vector(0, 0, 0)
 	
-	SWEP.RAZPos = Vector(-3.28, -9.587, 0.159)
+	SWEP.RAZPos = Vector(-3.221, -8.219, -0.03)
 	SWEP.RAZAng = Vector(0, 0, 0)
 	
 	
-	SWEP.TA02Pos = Vector(-3.28, -9.587, 0.28)
+	SWEP.TA02Pos = Vector(-3.22, -11.219, 0.048)
     SWEP.TA02Ang	= Vector(0, 0, 0)
 	
-	SWEP.BEND2Pos = Vector(-3.28, -9.587, 0.35)
-    SWEP.BEND2Ang = Vector(0, 0, 0)
 	
-	SWEP.LEUPos = Vector(-3.28, -8.796, 0.319)
+	SWEP.LEUPos = Vector(-3.241, -9.808, -0.12)
     SWEP.LEUAng = Vector(0, 0, 0)
 
 
 		
 
 	SWEP.CustomizationMenuScale = 0.016
-	SWEP.ReticleInactivityPostFire = 0.6
+	SWEP.ReticleInactivityPostFire = 1.8
 	
 
 	SWEP.AttachmentModelsVM = {
-	["rshd_leupoldmk4"] = { type = "Model", model = "models/shared/atts/sight/leupold_mk4.mdl", bone = "weapon", rel = "", pos = Vector(0, -1.484, 0.968), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 3), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_leupoldmk4"] = { type = "Model", model = "models/shared/atts/sight/leupold_mk4.mdl", bone = "weapon", rel = "", pos = Vector(0, -1.627, 4.565), angle = Angle(90, -90, 0), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, 0.017, 2.276), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
 	["rshd_exps3"] = { type = "Model", model = "models/shared/atts/sight/eft_optic_exps3.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-	["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_ps320"] = { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 1), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_ps320"] = { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 1), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
     ["rshd_aimpointpro"] = { type = "Model", model = "models/shared/atts/sight/scope_base_aimpoint_pro.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 1.914), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
     ["rshd_trihawk"] = { type = "Model", model = "models/shared/atts/sight/scope_swampfox_trihawk.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 2.), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_vortexrazorhd"] = { type = "Model", model = "models/shared/atts/sight/vortex_razor_hd.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 1), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-	["rshd_pm2_1250"] = { type = "Model", model = "models/shared/atts/sight/pm2_3-12x50.mdl", bone = "weapon", rel = "", pos = Vector(0, -1.45, 0), angle = Angle(90, -90, 0), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_vortexrazorhd"] = { type = "Model", model = "models/shared/atts/sight/vortex_razor_hd.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
     ["rshd_vortexuh1huey"] = { type = "Model", model = "models/shared/atts/sight/vortexuh1huey.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 1), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
    ["md_saker"] = { type = "Model", model = "models/cw2/attachments/556suppressor.mdl", bone = "weapon", rel = "", pos = Vector(-0, 3.8, 12), angle = Angle(0, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
 	}
@@ -105,7 +102,7 @@ SWEP.LuaViewmodelRecoilOverride = true
 SWEP.ADSFireAnim = true
 SWEP.ForceBackToHipAfterAimedShot = false
 SWEP.ForcedHipWaitTime = .5
-SWEP.Attachments = {[1] = {header = "Sight", offset = {800, -300}, atts = {"rshd_okp7rail", "rshd_exps3","rshd_vortexuh1huey", "rshd_aimpointpro", "rshd_trihawk", "rshd_ps320", "rshd_ta02" , "rshd_vortexrazorhd","rshd_pm2_1250", "rshd_leupoldmk4"}},
+SWEP.Attachments = {[1] = {header = "Sight", offset = {800, -300}, atts = {"rshd_okp7rail", "rshd_exps3","rshd_vortexuh1huey", "rshd_aimpointpro", "rshd_trihawk", "rshd_ps320", "rshd_ta02" , "rshd_vortexrazorhd","rshd_leupoldmk4"}},
     [2] = {header = "Muzzle", offset = {0, -300}, atts = {"md_saker"}},
 	["+reload"] = {header = "Ammo", offset = {-200, 300}, atts = {"am_magnum", "am_matchgrade"}}}
 
@@ -118,11 +115,7 @@ SWEP.Animations = {fire = {"fire"},
 	
 	
 	
-SWEP.Sounds = {reload_start = {{time = 0.05, sound = "CWR_M24_BOLTLATCH"},
-{time = 0.20, sound = "CWR_M24_BOLTBACK"}},
-	shellin = {{time = 0.17, sound = "CWR_M24_INSERT"},
-	
-	},
+SWEP.Sounds = {
 	
 	fire= {
 	{time = 0.50, sound = "CWR_SV98_BOLTUP"},
