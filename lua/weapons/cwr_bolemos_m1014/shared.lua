@@ -33,30 +33,30 @@ if CLIENT then
 	SWEP.IronsightPos = Vector(-3.641, -7.816, 1.44)
 	SWEP.IronsightAng = Vector(0, 0, 0)
 	
-	SWEP.PS320Pos = Vector(-3.62, -9.648, 0.18)
+	SWEP.PS320Pos = Vector(-3.62, -7.648, 0.18)
 	SWEP.PS320Ang = Vector(0, 0, 0)
 	
-	SWEP.AIMPROPos = Vector(-3.62, -9.648, 0.46)
+	SWEP.AIMPROPos = Vector(-3.62, -7.648, 0.46)
 	SWEP.AIMPROAng = Vector(0, 0, 0)
 	
-	SWEP.OKPPos = Vector(-3.5, -9.648, 0.54)
+	SWEP.OKPPos = Vector(-3.5, -7.648, 0.54)
 	SWEP.OKPAng = Vector(0, 0, 0)
 	
 	
 	
-	SWEP.EXPPos = Vector(-3.62, -9.648, -0.06)
+	SWEP.EXPPos = Vector(-3.62, -7.648, -0.06)
 	SWEP.EXPAng = Vector(0, 0, 0)
 	
-	SWEP.TRIPos = Vector(-3.62, -9.648, -0.22)
+	SWEP.TRIPos = Vector(-3.62, -7.648, -0.22)
 	SWEP.TRIAng = Vector(0, 0, 0)
 	
 	
-	SWEP.UH1Pos = Vector(-3.62, -9.648, -0.02)
+	SWEP.UH1Pos = Vector(-3.62, -7.648, -0.02)
     SWEP.UH1Ang	= Vector(0, 0, 0)
 	
 	
 	
-	SWEP.TA02Pos = Vector(-3.62, -9.648, 0.18)
+	SWEP.TA02Pos = Vector(-3.62, -7.648, 0.18)
     SWEP.TA02Ang	= Vector(0, 0, 0)
 
 		

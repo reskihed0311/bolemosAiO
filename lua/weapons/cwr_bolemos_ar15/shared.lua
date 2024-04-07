@@ -135,6 +135,7 @@ if CLIENT then
 	
 	SWEP.AttachmentPosDependency = {
 	["md_saker"] = {["rshd_longbarrel"] = Vector(-0, 4.254, 4), ["rshd_longris"] = Vector(-0, 4.254, 4)},
+	["rshd_lantacdragon"] = {["rshd_longbarrel"] = Vector(0, 1.37, 25), ["rshd_longris"] = Vector(0, 1.50, 27)},
 	["rshd_anpeq2"] = {["rshd_longbarrel"] = Vector(-0, 4.254, 4), ["rshd_longris"] = Vector(0, 0, 15)},
 	["rshd_mawl"] = {["rshd_longbarrel"] = Vector(-0, 4.254, 4), ["rshd_longris"] = Vector(0, 0, 15)}
 	}
@@ -161,6 +162,7 @@ if CLIENT then
     ["rshd_bcmgunfighter"] = { type = "Model", model = "models/shared/atts/grip/fg_bcm3.mdl", bone = "weapon", rel = "", pos = Vector(0, 2.283, 9.272), angle = Angle(90, -90, 0), angle = Angle(90, -90, 0), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
     ["rshd_fortisshift"] = { type = "Model", model = "models/shared/atts/grip/fg_fortisshift.mdl", bone = "weapon", rel = "", pos = Vector(0, 2.283, 9.272), angle = Angle(90, -90, 0), angle = Angle(90, -90, 0), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
     ["rshd_kacvfg"] = { type = "Model", model = "models/shared/atts/grip/fg_kac.mdl", bone = "weapon", rel = "", pos = Vector(0, 2.283, 9.272), angle = Angle(90, -90, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_lantacdragon"] = { type = "Model", model = "models/shared/atts/muzzle/muzzle_ar10_lantac.mdl", bone = "weapon", rel = "", pos = Vector(0, 1.3, 19.09), angle = Angle(90, 0, 0), size = Vector(1.25, 1.25, 1.25), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} }
 }
 	
 	
@@ -180,7 +182,7 @@ SWEP.StockBGs = {main = 3, regular = 0, heavy = 1, sturdy = 2}
 SWEP.LuaViewmodelRecoil = true
 
 SWEP.Attachments = {[1] = {header = "Sight", offset = {950, -600}, atts = {"rshd_okp7rail", "rshd_exps3","rshd_vortexuh1huey", "rshd_aimpointpro", "rshd_trihawk", "rshd_ps320", "rshd_ta02" , "rshd_vortexrazorhd"}},
-	[2] = {header = "Barrel", offset = {300, -600}, atts = {"md_saker"}},
+	[2] = {header = "Barrel", offset = {300, -600}, atts = {"md_saker", "rshd_lantacdragon"}},
 	[3] = {header = "Receiver", offset = {-400, -600}, atts = {"rshd_magpulhandguard", "rshd_longbarrel", "rshd_ris", "rshd_longris"}},
 	[4] = {header = "Handguard", offset = {-400, -100}, atts = {"rshd_kacvfg","rshd_bcmgunfighter","rshd_fortisshift", "rshd_afg", "rshd_b25u", "rshd_hera"}},
 	[5] = {header = "Stock", offset = {1000, 300}, atts = {"rshd_ar15sturdystock", "rshd_ar15heavystock"}},

@@ -21,7 +21,7 @@ if CLIENT then
 	SWEP.IronsightPos = Vector(-3.8, -4.052, 1.44)
 	SWEP.IronsightAng = Vector(0, 0, 0)
 	
-	SWEP.RMRPos = Vector(-3.8, -6.857, 0.839)
+	SWEP.RMRPos = Vector(-3.8, -2, 0.839)
 	SWEP.RMRAng = Vector(0, 0, 0)
 	
 
