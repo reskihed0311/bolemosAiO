@@ -165,7 +165,7 @@ if CLIENT then
 	    SWEP.AttachmentModelsVM = {
 
     ["rshd_hera" ]= { type = "Model", model = "models/shared/atts/grip/fg_heracqr.mdl", bone = "weapon", rel = "", pos = Vector(0, 2.7, 7.201), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(-0.08, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
 	["rshd_exps3"] = { type = "Model", model = "models/shared/atts/sight/eft_optic_exps3.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
 	["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
     ["rshd_ps320"] = { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
@@ -220,7 +220,7 @@ SWEP.Animations = {fire = "fire",
 	SWEP.ReloadViewBobEnabled = true
 	SWEP.ADSFireAnim = false
 	
-SWEP.Sounds = {draw = {{time = 0, sound = "CWR_RM227_RAIS"}},
+SWEP.Sounds = {draw = {{time = 0, sound = "CWR_RM227_RAISE"}},
 
 	reload = {
 	{time = 0, sound = "CWR_RM227_RAISE"},
@@ -236,7 +236,7 @@ SWEP.Sounds = {draw = {{time = 0, sound = "CWR_RM227_RAIS"}},
 	{time = 0.9, sound = "CWR_RM227_MAGHITGROUND"},
 	{time = 2, sound = "CWR_RM227_MAGHIT"},
 	{time = 2.2, sound = "CWR_RM227_MAGIN"},
-	{time = 2.79, sound = "CWR_RM227_BOLTFWD"},
+	{time = 2.88, sound = "CWR_RM227_BOLTFWD"},
 	{time = 3.1, sound = "CWR_RM227_DROP"},
 	},
 	

@@ -142,7 +142,7 @@ SWEP.AdminSpawnable		= true
 SWEP.Primary.ClipSize		= 30
 SWEP.Primary.DefaultClip	= 30
 SWEP.Primary.Automatic		= true
-SWEP.Primary.Ammo			= "smg1"
+SWEP.Primary.Ammo			= "5.56x45MM"
 
 SWEP.FireDelay = 0.09
 SWEP.FireSound = "CW_QBZ03_FIRE"

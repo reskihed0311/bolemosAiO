@@ -284,7 +284,7 @@ SWEP.Primary.DefaultClip	= 20
 SWEP.Primary.Automatic		= false
 SWEP.Primary.Ammo			= "7.62x51MM"
 
-SWEP.FireDelay = 60 / 500
+SWEP.FireDelay = 60 / 450
 SWEP.FireSound = "CW_M110_FIRE"
 SWEP.FireSoundSuppressed = "CW_M110_FIRE_SUPPRESSED"
 SWEP.Recoil = 2.8
@@ -296,7 +296,7 @@ SWEP.MaxSpreadInc = 0.052
 SWEP.SpreadPerShot = 0.007
 SWEP.SpreadCooldown = 0.13
 SWEP.Shots = 1
-SWEP.Damage = 62
+SWEP.Damage = 68
 SWEP.DeployTime = 0.6
 
 SWEP.ReloadSpeed = 1.1

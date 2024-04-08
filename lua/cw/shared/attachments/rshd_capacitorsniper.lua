@@ -5,10 +5,10 @@ att.displayNameShort = "Sniper"
 att.isBG = true
 att.SpeedDec = 3
 
-att.statModifiers = {DamageMult = 3,
+att.statModifiers = {DamageMult = 2.9,
 AimSpreadMult = -1,
 RecoilMult = 5,
-FireDelayMult = 1.35,
+FireDelayMult = 2,
 }
 
 if CLIENT then

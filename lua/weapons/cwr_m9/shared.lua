@@ -5,7 +5,7 @@ include("sh_sounds.lua")
 if CLIENT then
     SWEP.UseHands = true
 	SWEP.DrawCrosshair = false
-	SWEP.PrintName = "Berreta M9FS"
+	SWEP.PrintName = "Berreta M9"
 	SWEP.CSMuzzleFlashes = true
 	SWEP.ViewModelMovementScale = 1.15
 	SWEP.SnapToGrip = true

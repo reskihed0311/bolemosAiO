@@ -9,7 +9,7 @@ att.statModifiers = {OverallMouseSensMult = -0.05}
 
 if CLIENT then
 	att.displayIcon = surface.GetTextureID("vgui/icons/rshd_vortexuh1huey")
-	att.description = {[1] = {t = "A bulky reliable sight. Legend says that reshed goons to that sight.", c = CustomizableWeaponry.textColors.POSITIVE}}
+	att.description = {[1] = {t = "A bulky reliable sight.", c = CustomizableWeaponry.textColors.POSITIVE}}
 	
 	att.reticle = "models/weapons/shared/atts/reticles/razorsight"
 	att._reticleSize = 10
