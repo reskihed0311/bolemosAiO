@@ -134,7 +134,7 @@ if CLIENT then
 	SWEP.IronsightPos = Vector(-4.401, -10.806, 0.72)
 	SWEP.IronsightAng = Vector(0, 0, 0)
 	
-	SWEP.PS320Pos = Vector(-4.401, -16.712, 0.759)
+	SWEP.PS320Pos = Vector(-4.401, -10.712, 0.759)
 	SWEP.PS320Ang = Vector(0, 0, 0)
 	
 	SWEP.AIMPROPos = Vector(-4.401, -10.712, 1.08)
@@ -148,10 +148,10 @@ if CLIENT then
 	SWEP.EXPPos = Vector(-4.401, -10.712, 0.519)
 	SWEP.EXPAng = Vector(0, 0, 0)
 	
-	SWEP.TRIPos = Vector(-4.401, -16.712, 0.4)
+	SWEP.TRIPos = Vector(-4.401, -10.712, 0.4)
 	SWEP.TRIAng = Vector(0, 0, 0)
 	
-	SWEP.RAZPos = Vector(-4.401, -16.712, 0.68)
+	SWEP.RAZPos = Vector(-4.401, -10.712, 0.68)
 	SWEP.RAZAng = Vector(0, 0, 0)
 	
 	SWEP.UH1Pos = Vector(-4.401, -10.712, 0.56)
@@ -159,7 +159,7 @@ if CLIENT then
 	
 	
 	
-	SWEP.TA02Pos = Vector(-4.401, -16.712, 0.759)
+	SWEP.TA02Pos = Vector(-4.401, -10.712, 0.759)
     SWEP.TA02Ang	= Vector(0, 0, 0)
 
 	    SWEP.AttachmentModelsVM = {
