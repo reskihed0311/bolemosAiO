@@ -8,7 +8,7 @@ att.SpeedDec = 3
 att.statModifiers = {DamageMult = 3,
 AimSpreadMult = -1,
 RecoilMult = 5,
-FireDelayMult = 0.5,
+FireDelayMult = 1.35,
 }
 
 if CLIENT then

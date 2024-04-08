@@ -220,7 +220,7 @@ SWEP.Animations = {fire = "fire",
 	SWEP.ReloadViewBobEnabled = true
 	SWEP.ADSFireAnim = false
 	
-SWEP.Sounds = {draw = {{time = 0, sound = "CWR_AK12_RAISE"}},
+SWEP.Sounds = {draw = {{time = 0, sound = "CWR_RM227_RAIS"}},
 
 	reload = {
 	{time = 0, sound = "CWR_RM227_RAISE"},
@@ -291,7 +291,7 @@ SWEP.Primary.DefaultClip	= 20
 SWEP.Primary.Automatic		= true
 SWEP.Primary.Ammo			= "7.62x51MM"
 
-SWEP.FireDelay = 60 / 800
+SWEP.FireDelay = 60 / 600
 SWEP.FireSound = "CWR_RM227_FIRE"
 SWEP.FireSoundSuppressed = "CWR_RM227_SIL"
 SWEP.Recoil = 0.90
@@ -308,8 +308,8 @@ SWEP.DeployTime = 1
 
 SWEP.ReloadSpeed = 1
 SWEP.ReloadTime = 2.8
-SWEP.ReloadTime_Empty = 2.8
+SWEP.ReloadTime_Empty = 3.65
 SWEP.ReloadHalt = 2.8
-SWEP.ReloadHalt_Empty = 2.8
+SWEP.ReloadHalt_Empty = 3.65
 
 SWEP.SnapToIdlePostReload = true
