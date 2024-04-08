@@ -6,7 +6,10 @@ att.isSuppressor = false
 
 att.statModifiers = {RecoilMult = -0.35,
 AimSpreadMult = -0.01,
+OverallMouseSensMult = -0.15,
+VelocitySensitivityMult = 0.25,
 HipSpreadMult = 0.35}
+
 
 if CLIENT then
 	att.displayIcon = surface.GetTextureID("vgui/icons/rshd_lantacdragon")
