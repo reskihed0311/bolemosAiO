@@ -116,7 +116,7 @@ if CLIENT then
 	SWEP.TRIPos = Vector(-3.641, -8.891, 0.090)
 	SWEP.TRIAng = Vector(0, 0, 0)
 	
-	SWEP.RAZPos = Vector(-3.641, -8.891, 0.319)
+	SWEP.RAZPos = Vector(-3.641, -2, 0.319)
 	SWEP.RAZAng = Vector(0, 0, 0)
 	
 	SWEP.UH1Pos = Vector(-3.641, -4, 0.28)
