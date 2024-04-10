@@ -303,7 +303,7 @@ SWEP.MaxSpreadInc = 0.033
 SWEP.SpreadPerShot = 0.004
 SWEP.SpreadCooldown = 0.09
 SWEP.Shots = 1
-SWEP.Damage = 32
+SWEP.Damage = 28
 SWEP.DeployTime = 0.6
 SWEP.NearWallDistance = 20
 
