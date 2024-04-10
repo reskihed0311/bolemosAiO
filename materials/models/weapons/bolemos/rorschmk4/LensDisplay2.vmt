@@ -1,4 +1,5 @@
-"VertexlitGeneric"
+"UnlitGeneric"
 {
 	"$basetexture" "models/weapons/bolemos/rorschmk4/LensDisplay"
+	
 }
