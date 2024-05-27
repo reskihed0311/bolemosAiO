@@ -11,8 +11,8 @@ if CLIENT then
 	SWEP.SnapToGrip = true
     SWEP.ForgripOverride = true	
 	
-	SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_tacrp_reshed_ak12")
-	killicon.Add( "cwr_tacrp_reshed_ak12", "vgui/entities/cwr_tacrp_reshed_ak12", Color(255, 0, 0, 0))
+	SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_bolemos_ak12")
+	killicon.Add( "cwr_bolemos_ak12", "vgui/entities/cwr_bolemos_ak12", Color(255, 0, 0, 0))
 	
 	SWEP.MuzzleEffect = "muzzleflash_ak74"
 	SWEP.PosBasedMuz = false
@@ -259,7 +259,7 @@ SWEP.Instructions	= ""
 
 SWEP.ViewModelFOV	= 60
 SWEP.ViewModelFlip	= false
-SWEP.ViewModel		= "models/weapons/tacrp_reshed/cw2_reshed_ak12.mdl"
+SWEP.ViewModel		= "models/weapons/bolemos/cw2_reshed_ak12.mdl"
 SWEP.WorldModel		= "models/weapons/w_rif_ak47.mdl"
 
 SWEP.Spawnable			= true
