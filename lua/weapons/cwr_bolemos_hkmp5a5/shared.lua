@@ -143,46 +143,45 @@ if CLIENT then
 
 	
 	
-	SWEP.IronsightPos = Vector(-4.72, -6.258, 0.759)
-	SWEP.IronsightAng = Vector(0, 0, 0)
+	SWEP.IronsightPos = Vector(-4, -8.141, 0.92)
+	SWEP.IronsightAng = Vector(0.419, 0, 0)
 	
-	SWEP.PS320Pos = Vector(-4.68, -10.285, -0.281)
+	SWEP.PS320Pos = Vector(-4, -10.613, -0.24)
 	SWEP.PS320Ang = Vector(0, 0, 0)
 	
-	SWEP.AIMPROPos = Vector(-4.72, -10.285, 0.039)
+	SWEP.AIMPROPos = Vector(-4, -10.613, 0.079)
 	SWEP.AIMPROAng = Vector(0, 0, 0)
 	
-	SWEP.OKPPos = Vector(-4.6, -10.285, 0.079)
+	SWEP.OKPPos = Vector(-3.881, -10.613, 0.119)
 	SWEP.OKPAng = Vector(0, 0, 0)
 	
 	
 	
-	SWEP.EXPPos = Vector(-4.68, -10.285, -0.52)
+	SWEP.EXPPos = Vector(-4, -10.613, -0.44)
 	SWEP.EXPAng = Vector(0, 0, 0)
 	
-	SWEP.TRIPos = Vector(-4.68, -10.285, -0.681)
+	SWEP.TRIPos = Vector(-4, -10.613, -0.64)
 	SWEP.TRIAng = Vector(0, 0, 0)
 	
 	
-	SWEP.UH1Pos = Vector(-4.72, -10.285, -0.401)
+	SWEP.UH1Pos = Vector(-4, -10.613, -0.401)
     SWEP.UH1Ang	= Vector(0, 0, 0)
 	
 	
 	
-	SWEP.TA02Pos = Vector(-4.72, -10.285, -0.24)
+	SWEP.TA02Pos = Vector(-4, -10.613, -0.24)
     SWEP.TA02Ang	= Vector(0, 0, 0)
 
 	    SWEP.AttachmentModelsVM = {
-["md_tundra9mm"] = { type = "Model", model = "models/cw2/attachments/9mmsuppressor.mdl", bone = "weapon", rel = "", pos = Vector(0, 3.279, 18.906), angle = Angle(0, 180, 90), size = Vector(1.1, 1.1, 1.1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-   ["md_rail"] = { type = "Model", model = "models/weapons/bolemos/atts/cw_modkit_mp5.mdl", bone = "weapon", rel = "", pos = Vector(0, 0, 2.157), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 3), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-	["rshd_exps3"] = { type = "Model", model = "models/shared/atts/sight/eft_optic_exps3.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 2.111), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-	["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 2.111), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_ps320"] = { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 2.111), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_aimpointpro"] = { type = "Model", model = "models/shared/atts/sight/scope_base_aimpoint_pro.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 2.111), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_trihawk"] = { type = "Model", model = "models/shared/atts/sight/scope_swampfox_trihawk.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 2.111), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_vortexuh1huey"] = { type = "Model", model = "models/shared/atts/sight/vortexuh1huey.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.468, 2.111), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-   ["md_saker"] = { type = "Model", model = "models/cw2/attachments/556suppressor.mdl", bone = "weapon", rel = "", pos = Vector(0.006, 4.672, 0.395), angle = Angle(0, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+  ["md_rail"] = { type = "Model", model = "models/weapons/bolemos/atts/cw_reshed_rail_mp5.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.323, 1.94), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2.855), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_exps3"] = { type = "Model", model = "models/shared/atts/sight/eft_optic_exps3.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_ps320"] = { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2.), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_aimpointpro"] = { type = "Model", model = "models/shared/atts/sight/scope_base_aimpoint_pro.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_trihawk"] = { type = "Model", model = "models/shared/atts/sight/scope_swampfox_trihawk.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2.), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_vortexuh1huey"] = { type = "Model", model = "models/shared/atts/sight/vortexuh1huey.mdl", bone = "weapon", rel = "", pos = Vector(0, -2.888, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+  ["md_saker"] = { type = "Model", model = "models/cw2/attachments/556suppressor.mdl", bone = "weapon", rel = "", pos = Vector(-0.077, -2.987, 0.379), angle = Angle(180, 0, 90), size = Vector(0.713, 0.713, 0.713), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
 }
 
 
@@ -208,7 +207,7 @@ SWEP.FullAimViewmodelRecoil = false
 
 SWEP.SightBGs = {main = 1, sights = 0, none = 1}
 SWEP.Attachments = {[1] = {header = "Sight", offset = {950, -600}, atts = {"rshd_okp7rail", "rshd_exps3","rshd_vortexuh1huey", "rshd_aimpointpro", "rshd_trihawk", "rshd_ps320", "rshd_ta02"}},
-    [2] = {header = "Muzzle", offset = {-400, -250}, atts = {"md_tundra9mm"}},
+    [2] = {header = "Muzzle", offset = {-400, -250}, atts = {"md_saker"}},
 	["+reload"] = {header = "Ammo", offset = {900, 0}, atts = {"am_magnum", "am_matchgrade"}}}
 	
 
@@ -228,16 +227,18 @@ SWEP.Animations = {fire = "fire",
 SWEP.Sounds = {draw = {{time = 0, sound = "CWR_AK12_RAISE"}},
 
 	reload = {
-	[1] = {time = 0.29, sound = "CWR_MP5A5_MAGOUT"},
-	[2] = {time = 1.17, sound = "CWR_MP5A5_MAGHIT"},
-	[3] = {time = 1.20, sound = "CWR_MP5A5_MAGIN"}},
+	{time = 0.3, sound = "CWR_MP5A5_MAGOUT"},
+	{time = 0.8, sound = "CWR_MP5A5_MAGIN"}
+	},
 	
 	reload_empty = {
-	[1] = {time = 0.1, sound = "CWR_MP5A5_BOLTBACK"},
-	[2] = {time = 0.6, sound = "CWR_MP5A5_MAGOUT"},
-	[3] = {time = 1.4, sound = "CWR_MP5A5_MAGHIT"},
-	[4] = {time = 1.5, sound = "CWR_MP5A5_MAGIN"},
-	[5] = {time = 2, sound = "CWR_MP5A5_BOLTREL"}},
+	{time = 0, sound = "CWR_MP5A5_RAISE"},
+	{time = 0.15, sound = "CWR_MP5A5_BOLTBACK"},
+	{time = 0.7, sound = "CWR_MP5A5_MAGOUT_EMPTY"},
+	{time = 1.89, sound = "CWR_MP5A5_MAGIN"},
+	{time = 2.45, sound = "CWR_MP5A5_BOLTREL"},
+	{time = 2.9, sound = "CWR_MP5A5_DROP"},
+	}
 	
 }
 
@@ -278,9 +279,9 @@ SWEP.Contact		= ""
 SWEP.Purpose		= ""
 SWEP.Instructions	= ""
 
-SWEP.ViewModelFOV	= 60
+SWEP.ViewModelFOV	= 59
 SWEP.ViewModelFlip	= false
-SWEP.ViewModel		= "models/weapons/bolemos/cw_reshed_mp5a5.mdl"
+SWEP.ViewModel		= "models/weapons/bolemos/cw_reshed_mp5.mdl"
 SWEP.WorldModel		= "models/weapons/w_smg_mp5.mdl"
 
 SWEP.Spawnable			= true
@@ -291,7 +292,7 @@ SWEP.Primary.DefaultClip	= 30
 SWEP.Primary.Automatic		= true
 SWEP.Primary.Ammo			= "9x19MM"
 
-SWEP.FireDelay = 60 / 1000
+SWEP.FireDelay = 60 / 800
 SWEP.FireSound = "CWR_MP5A5_FIRE"
 SWEP.FireSoundSuppressed = "CWR_MP5A5_SIL"
 SWEP.Recoil = 0.6

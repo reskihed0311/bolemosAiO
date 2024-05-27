@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\bolemos\remington870\shell_color"
+	"$bumpmap" "models\weapons\bolemos\remington870\shell_normal"
+	"$normalmapalphaenvmapmask" 	1
+	
+//	"$phongexponenttexture" 	"models\R870PM\wingmaster_exponent"
+	"$phong" 		"1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	$phongtint                  "[1 1 .5]"
+	"$phongfresnelranges" "[.6 1 2]"
+	
+	$envmap                     env_cubemap
+	$envmaptint                 "[.015 .015 .008]"
+	$envmapfresnel              0.5
+	$normalmapalphaenvmapmask   1
+
+}

@@ -36,26 +36,19 @@ SWEP.ForegripOverridePos = {
 	
 	["rshd_b25u"] = {
 
-	["ValveBiped.Bip01_L_Finger1"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-16.806, -14.764, 0) },
-	["ValveBiped.Bip01_L_Finger21"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -4.988, 0) },
-	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-0.459, -1.64, 1.044), angle = Angle(0, 0, 0) },
-	["ValveBiped.Bip01_L_Finger4"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, 46.212, 0) },
-	["ValveBiped.Bip01_L_Finger32"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(5.543, -93.76, 0) },
-	["ValveBiped.Bip01_L_Finger3"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0.764, 6.526, 0) },
-	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(7.83, 12.777, 6.089) },
-	["ValveBiped.Bip01_L_Finger2"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -5.92, 0) },
-	["ValveBiped.Bip01_L_Finger22"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -72.707, 0) },
-	["ValveBiped.Bip01_L_Finger12"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -85.774, 0) },
-	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-43.723, -1.305, 122.96) }
+	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(9.355, 5.775, 0) },
+	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-1.655, -0.336, 0.566), angle = Angle(0, 0, 0) },
+	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-41.795, 6.679, 84.803) }
+
 
 
 	},
 	
 	["rshd_afg"] = {
 
-	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-0.463, 2.431, 1.274), angle = Angle(0, 0, 0) },
-	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0.439), angle = Angle(0, 0, 0) },
-	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, 3.246, 35.43) }
+	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-7.81, -12.935, 13.394) },
+	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-0.685, 2.109, 0), angle = Angle(0, 0, 0) }
+
 
 
 
@@ -64,94 +57,78 @@ SWEP.ForegripOverridePos = {
 
   
     ["rshd_bcmgunfighter"] = {
-	["ValveBiped.Bip01_L_Finger1"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-6.001, -27.227, 0) },
-	["ValveBiped.Bip01_L_Finger21"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -53.001, 0) },
-	["ValveBiped.Bip01_L_Finger11"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-25.338, -33.795, 0) },
-	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-1.389, 1.141, 1.274), angle = Angle(0, 0, 0) },
-	["ValveBiped.Bip01_L_Finger4"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -31.092, 0) },
-	["ValveBiped.Bip01_L_Finger31"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -66.104, 0) },
-	["ValveBiped.Bip01_L_Finger2"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-6.032, -15.865, 0) },
-	["ValveBiped.Bip01_L_Finger12"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -25.004, 0) },
-	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0.439), angle = Angle(-30.674, 0, 0) },
-	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-1.025, -8.138, 69.567) }
+	["ValveBiped.Bip01_L_Finger1"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-16.409, -80.695, -21.073) },
+	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-2.257, 1.526, -1.783), angle = Angle(0, 0, 0) },
+	["ValveBiped.Bip01_L_Finger4"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(12.184, -24.872, 0) },
+	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-44.689, 4.537, -11.445) },
+	["ValveBiped.Bip01_L_Finger01"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(19.148, 14.46, -20.459) },
+	["ValveBiped.Bip01_L_Finger2"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-5.794, -78.901, -12.511) },
+	["ValveBiped.Bip01_L_Finger3"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(2.16, -56.132, 0) },
+	["ValveBiped.Bip01_L_Finger02"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(16.53, 8.751, 0) },
+	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-38.957, -2.935, 56.165) }
+
     },
 	
 	
 	["rshd_kacvfg"] = {
-    ["ValveBiped.Bip01_L_Finger1"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-6.001, -27.227, 0) },
-	["ValveBiped.Bip01_L_Finger21"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -53.001, 0) },
-	["ValveBiped.Bip01_L_Finger11"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-25.338, -33.795, 0) },
-	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-1.389, 1.141, 1.274), angle = Angle(0, 0, 0) },
-	["ValveBiped.Bip01_L_Finger4"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -31.092, 0) },
-	["ValveBiped.Bip01_L_Finger02"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, 66.762, 0) },
-	["ValveBiped.Bip01_L_Finger01"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(10.399, 7.208, 0) },
-	["ValveBiped.Bip01_L_Finger31"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -66.104, 0) },
-	["ValveBiped.Bip01_L_Finger2"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-6.032, -15.865, 0) },
-	["ValveBiped.Bip01_L_Finger12"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -25.004, 0) },
-	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0.439), angle = Angle(23.503, 31.76, 0) },
-	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-1.025, -8.138, 69.567) }
+   ["ValveBiped.Bip01_L_Finger1"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-16.409, -80.695, -21.073) },
+	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-2.356, 1.526, -1.783), angle = Angle(0, 0, 0) },
+	["ValveBiped.Bip01_L_Finger4"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(12.184, -24.872, 0) },
+	["ValveBiped.Bip01_L_Finger01"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, 33.727, 0) },
+	["ValveBiped.Bip01_L_Finger2"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-5.794, -78.901, -12.511) },
+	["ValveBiped.Bip01_L_Finger3"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(2.16, -56.132, 0) },
+	["ValveBiped.Bip01_L_Finger02"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, 68.106, 19.013) },
+	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-38.957, -2.935, 56.165) }
+
 
 
     },
-	["rshd_fortisshift"] = {
-	["ValveBiped.Bip01_L_Finger1"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-6.001, -27.227, 0) },
-	["ValveBiped.Bip01_L_Finger21"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -53.001, 0) },
-	["ValveBiped.Bip01_L_Finger11"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-25.338, -33.795, 0) },
-	["ValveBiped.Bip01_L_Clavicle"] = { scale = Vector(1, 1, 1), pos = Vector(-1.389, 1.141, 1.274), angle = Angle(0, 0, 0) },
-	["ValveBiped.Bip01_L_Finger4"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -31.092, 0) },
-	["ValveBiped.Bip01_L_Finger31"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -66.104, 0) },
-	["ValveBiped.Bip01_L_Finger2"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-6.032, -15.865, 0) },
-	["ValveBiped.Bip01_L_Finger12"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(0, -25.004, 0) },
-	["ValveBiped.Bip01_L_Finger0"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0.439), angle = Angle(-30.674, 0, 0) },
-	["ValveBiped.Bip01_L_Hand"] = { scale = Vector(1, 1, 1), pos = Vector(0, 0, 0), angle = Angle(-1.025, -8.138, 69.567) }
-    }
   
 }
 	
 	
-	SWEP.IronsightPos = Vector(-4.441, -5.204, 1.12)
-	SWEP.IronsightAng = Vector(0.56, 0, 0)
+	SWEP.IronsightPos = Vector(-3.201, -5.494, 0.8)
+	SWEP.IronsightAng = Vector(0, 0, 0)
 	
-	SWEP.PS320Pos = Vector(-4.481, -5.204, 0.439)
-	SWEP.PS320Ang = Vector(0.56, 0, 0)
+	SWEP.PS320Pos = Vector(-3.201, -5.494, 0)
+	SWEP.PS320Ang = Vector(0, 0, 0)
 	
-	SWEP.AIMPROPos = Vector(-4.481, -7.261, 0.759)
+	SWEP.AIMPROPos = Vector(-3.201, -5.494, 0.25)
 	SWEP.AIMPROAng = Vector(0.56, 0, 0)
 	
 	
-	SWEP.EXPPos = Vector(-4.481, -5.204, 0.239)
-	SWEP.EXPAng = Vector(0.56, 0, 0)
+	SWEP.EXPPos = Vector(-3.201, -5.494, -0.15)
+	SWEP.EXPAng = Vector(0, 0, 0)
 	
-	SWEP.TRIPos = Vector(-4.481, -7.261, 0.079)
-	SWEP.TRIAng = Vector(0.56, 0, 0)
+	SWEP.TRIPos = Vector(-3.201, -8.494, -0.35)
+	SWEP.TRIAng = Vector(0, 0, 0)
 	
-	SWEP.TA02Pos = Vector(-4.401, -8.513, 0.361)
+	SWEP.TA02Pos = Vector(-3.201, -7.494, 0.05)
     SWEP.TA02Ang	= Vector(0, 0, 0)
 	
 
 	
-	SWEP.UH1Pos = Vector(-4.481, -7.261, 0.2)
+	SWEP.UH1Pos = Vector(-3.201, -7.494, -0.22)
     SWEP.UH1Ang	= Vector(0.56, 0, 0)
 	
-	SWEP.OKPPos = Vector(-4.27, -7.928, 0.8)
+	SWEP.OKPPos = Vector(-3.1, -7.494, 0.4)
 	SWEP.OKPAng = Vector(0, 0, 0)
 
 	
     SWEP.AttachmentModelsVM = {
-	["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, -0.159, 1.61), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-	 ["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0.004, 0, 1.075), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-	["rshd_exps3"] = { type = "Model", model = "models/shared/atts/sight/eft_optic_exps3.mdl", bone = "Weapon", rel = "", pos = Vector(-0.08, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_ps320"]= { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "Weapon", rel = "", pos = Vector(-0.08, 0, 1.12), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_aimpointpro"] = { type = "Model", model = "models/shared/atts/sight/scope_base_aimpoint_pro.mdl", bone = "Weapon", rel = "", pos = Vector(-0.08, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_trihawk"]  = { type = "Model", model = "models/shared/atts/sight/scope_swampfox_trihawk.mdl", bone = "Weapon", rel = "", pos = Vector(-0.08, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_vortexuh1huey"] = { type = "Model", model = "models/shared/atts/sight/vortexuh1huey.mdl", bone = "Weapon", rel = "", pos = Vector(-0.08, 0, 0), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_anpeq2"] = { type = "Model", model = "models/shared/atts/tac/tac_anpeq2.mdl", bone = "Weapon", rel = "", pos = Vector(1.246, 2.828, 11.378), angle = Angle(90, -90, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_b25u"] = { type = "Model", model = "models/shared/atts/grip/fg_b25u.mdl", bone = "Weapon", rel = "", pos = Vector(0.238, 3.688, 9.838), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["md_cobram2"] = { type = "Model", model = "models/cw2/attachments/cobra_m2.mdl", bone = "Weapon", rel = "", pos = Vector(0, 2.579, 18.597), angle = Angle(-90, 90, 0), size = Vector(1.5, 1.5, 1.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_afg"] = { type = "Model", model = "models/shared/atts/grip/fg_afg.mdl", bone = "Weapon", rel = "", pos = Vector(0.238, 3.688, 9.838), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_bcmgunfighter"] = { type = "Model", model = "models/shared/atts/grip/fg_bcm3.mdl", bone = "Weapon", rel = "", pos = Vector(0.067, 3.854, 9.838), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_fortisshift"]  = { type = "Model", model = "models/shared/atts/grip/fg_fortisshift.mdl", bone = "Weapon", rel = "", pos = Vector(0.067, 3.854, 9.838), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
-    ["rshd_kacvfg"] = { type = "Model", model = "models/shared/atts/grip/fg_kac.mdl", bone = "Weapon", rel = "", pos = Vector(0.067, 3.854, 9.838), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_ta02"] = { type = "Model", model = "models/shared/atts/sight/ta51.mdl", bone = "weapon", rel = "", pos = Vector(0, -3.1, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	 ["rshd_okp7rail"] = { type = "Model", model = "models/shared/atts/sight/scope_all_ekb_okp7.mdl", bone = "weapon", rel = "", pos = Vector(0, -3.1, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+	["rshd_exps3"] = { type = "Model", model = "models/shared/atts/sight/eft_optic_exps3.mdl", bone = "Weapon", rel = "", pos = Vector(0, -3.1, 1.12), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_ps320"]= { type = "Model", model = "models/shared/atts/sight/scope_all_valday_ps320.mdl", bone = "Weapon", rel = "", pos = Vector(0, -3.1, 1.12), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_aimpointpro"] = { type = "Model", model = "models/shared/atts/sight/scope_base_aimpoint_pro.mdl", bone = "Weapon", rel = "", pos = Vector(0, -3.1, 1.12), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_trihawk"]  = { type = "Model", model = "models/shared/atts/sight/scope_swampfox_trihawk.mdl", bone = "Weapon", rel = "", pos = Vector(0, -3.1, 2), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_vortexuh1huey"] = { type = "Model", model = "models/shared/atts/sight/vortexuh1huey.mdl", bone = "Weapon", rel = "", pos = Vector(0, -3.1, 1.12), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_anpeq2"] = { type = "Model", model = "models/shared/atts/tac/tac_anpeq2.mdl", bone = "Weapon", rel = "", pos = Vector(1, -0.6, 11.378), angle = Angle(90, -90, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_b25u"] = { type = "Model", model = "models/shared/atts/grip/fg_b25u.mdl", bone = "Weapon", rel = "", pos = Vector(0, 0.314, 9.979), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["md_cobram2"] = { type = "Model", model = "models/cw2/attachments/cobra_m2.mdl", bone = "Weapon", rel = "", pos = Vector(0, -0.8, 18), angle = Angle(-90, 90, 0), size = Vector(1.5, 1.5, 1.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_afg"] = { type = "Model", model = "models/shared/atts/grip/fg_afg.mdl", bone = "Weapon", rel = "", pos = Vector(0, 0.314, 9.979), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_bcmgunfighter"] = { type = "Model", model = "models/shared/atts/grip/fg_bcm3.mdl", bone = "Weapon", rel = "", pos = Vector(0, 0.314, 9.979), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
+    ["rshd_kacvfg"] = { type = "Model", model = "models/shared/atts/grip/fg_kac.mdl", bone = "Weapon", rel = "", pos = Vector(0, 0.314, 9.979), angle = Angle(90, 0, -90), size = Vector(1, 1, 1), color = Color(255, 255, 255, 255), surpresslightning = false, material = "", skin = 0, bodygroup = {} },
 }
 
 
@@ -177,7 +154,7 @@ SWEP.FullAimViewmodelRecoil = false
 
 SWEP.Attachments = {[1] = {header = "Sight", offset = {950, -600}, atts = {"rshd_okp7rail", "rshd_exps3","rshd_vortexuh1huey", "rshd_aimpointpro", "rshd_trihawk", "rshd_ps320", "rshd_ta02"}},
     [2] = {header = "Tactical", offset = {0, -500}, atts = {"rshd_anpeq2"}},
-	[3] = {header = "Grip", offset = {0, 0}, atts = {"rshd_kacvfg" ,"rshd_bcmgunfighter","rshd_fortisshift","rshd_afg", "rshd_b25u"}},
+	[3] = {header = "Grip", offset = {0, 0}, atts = {"rshd_kacvfg" ,"rshd_bcmgunfighter","rshd_afg", "rshd_b25u"}},
     [4] = {header = "Muzzle", offset = {-400, -250}, atts = {"md_cobram2"}},
 	["+reload"] = {header = "Ammo", offset = {900, 0}, atts = {"am_magnum", "am_matchgrade"}}}
 	
@@ -198,17 +175,15 @@ SWEP.Animations = {fire = "fire",
 SWEP.Sounds = {draw = {{time = 0, sound = "CW_FOLEY_MEDIUM"}},
 
 	reload = {
-	[1] = {time = 0.15, sound = "CWR_UMP_MAGREL"},
-	[2] = {time = 0.25, sound = "CWR_UMP_MAGOUT"},
-	[3] = {time = 1.6, sound = "CWR_UMP_MAGHIT"},
-	[4] = {time = 1.68, sound = "CWR_UMP_MAGIN"}},
+	{time = 0.35, sound = "CWR_UMP_MAGOUT"},
+	{time = 0.8, sound = "CWR_UMP_MAGIN"},
+    },
 	
 	reload_empty = {
-	[1] = {time = 0.15, sound = "CWR_UMP_MAGREL"},
-	[2] = {time = 0.25, sound = "CWR_UMP_MAGOUT"},
-	[3] = {time = 1.6, sound = "CWR_UMP_MAGHIT"},
-	[4] = {time = 1.68, sound = "CWR_UMP_MAGIN"},
-	[5] = {time = 2.1, sound = "CWR_UMP_SLIDEREL"}},
+	{time = 0.20, sound = "CWR_UMP_MAGOUT_EMPTY"},
+	{time = 1.56, sound = "CWR_UMP_MAGIN"},
+	{time = 2.02, sound = "CWR_UMP_SLIDEREL"},
+	},
 }
 SWEP.SpeedDec = 18
 
@@ -228,7 +203,7 @@ SWEP.Instructions	= ""
 
 SWEP.ViewModelFOV	= 54
 SWEP.ViewModelFlip	= false
-SWEP.ViewModel		= "models/weapons/reshed/reshed_cw2_ump45.mdl"
+SWEP.ViewModel		= "models/weapons/bolemos/cw_reshed_ump45.mdl"
 SWEP.WorldModel		= "models/weapons/w_smg_ump45.mdl"
 
 SWEP.Spawnable			= true
@@ -255,12 +230,12 @@ SWEP.Damage = 32
 SWEP.DeployTime = 0.55
 SWEP.RecoilToSpread = .4
 
-SWEP.ReloadSpeed = 1.1
+SWEP.ReloadSpeed = 1
 SWEP.ReloadEmptySpeed = 1
-SWEP.ReloadTime = 2.45
-SWEP.ReloadTime_Empty = 3
-SWEP.ReloadHalt = 2.45
-SWEP.ReloadHalt_Empty = 3
+SWEP.ReloadTime = 2
+SWEP.ReloadTime_Empty = 2.5
+SWEP.ReloadHalt = 2
+SWEP.ReloadHalt_Empty = 2.5
 SWEP.SnapToIdlePostReload = false
 
 SWEP.ForeGripOffsetCycle_Reload = 0.8

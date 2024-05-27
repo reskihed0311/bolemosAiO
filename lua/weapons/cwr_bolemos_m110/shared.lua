@@ -10,7 +10,7 @@ if CLIENT then
 	SWEP.ViewModelMovementScale = 1.15
 	
 	SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_bolemos_m110")
-	killicon.Add( "cwr_bolemos_m110", "vgui/entities/cwr_bolemos_m110", Color(255, 0, 0, 0))
+	killicon.Add( "cwr_tacrp_reshed_m110", "vgui/entities/cwr_bolemos_m110", Color(255, 0, 0, 0))
 	
 	SWEP.MuzzleEffect = "muzzleflash_g3"
 	SWEP.SnapToGrip = true
@@ -100,7 +100,7 @@ if CLIENT then
 
 
 
-
+	
 
 
 

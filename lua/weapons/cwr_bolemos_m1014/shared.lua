@@ -144,11 +144,11 @@ SWEP.FireSound = "CWR_BOLEMOS_M1014_FIRE"
 SWEP.FireSoundSuppressed = "CWR_BOLEMOS_M1014_FIRE_SUPPRESSED"
 SWEP.Recoil = 2.5
 
-SWEP.HipSpread = 0.10
-SWEP.AimSpread = 0.009
+SWEP.HipSpread = 0.009
+SWEP.AimSpread = 0.005
 SWEP.VelocitySensitivity = 1.9
 SWEP.MaxSpreadInc = 0.005
-SWEP.ClumpSpread = 0.013
+SWEP.ClumpSpread = 0.020
 SWEP.SpreadPerShot = 0.01
 SWEP.SpreadCooldown = 0.8
 SWEP.Shots = 12
