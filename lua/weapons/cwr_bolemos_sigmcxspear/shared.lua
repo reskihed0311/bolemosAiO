@@ -259,7 +259,7 @@ SWEP.FireModes = {"auto", "semi"}
 SWEP.Base = "cw_base"
 SWEP.Category = "CW 2.0 - Bôlemos"
 
-SWEP.Author			= "Spy"
+SWEP.Author			= "reshed / Niborhn"
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
 SWEP.Instructions	= ""

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\weapons\bolemos\1911\weapon_m1911_dm"
+	"$bumpmap" 						"models\weapons\bolemos\1911\weapon_m1911_nm"
+	"$model"						"1"
+    "$color"						"[1 1 1]"
+	
+
+//PHONG
+	"$phong"                        "1"
+	"$phongtint"                    "[.67 .85 1]"
+	"$phongboost"                   "1"
+	"$phongexponent"				"60"
+	"$phongfresnelranges"           "[1 2 5]"
+
+//ENVMAP
+	"$envmap"						"env_cubemap"
+	"$envmapfresnel" 				".2"
+	"$normalmapalphaenvmapmask" 			"1"
+	"$envmaptint"                   "[.04 .04 .04]"
+}
+

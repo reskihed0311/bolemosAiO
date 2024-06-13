@@ -185,9 +185,9 @@ SWEP.Primary.DefaultClip	= 20
 SWEP.Primary.Automatic		= true
 SWEP.Primary.Ammo			= "9x39MM"
 
-SWEP.FireDelay = 60/ 800
+SWEP.FireDelay = 60/ 900
 SWEP.FireSound = "CWR_BOLEMOS_VSS_SUPPRESSED"
-SWEP.Recoil = 1.2
+SWEP.Recoil = 0.8
 
 SWEP.HipSpread = 0.070
 SWEP.AimSpread = 0.0007
@@ -196,7 +196,7 @@ SWEP.MaxSpreadInc = 0.007
 SWEP.SpreadPerShot = 0.0002
 SWEP.SpreadCooldown = 0.07
 SWEP.Shots = 1
-SWEP.Damage = 29
+SWEP.Damage = 21
 SWEP.DeployTime = 0.6
 
 SWEP.ReloadSpeed = 1

@@ -5,7 +5,7 @@ att.displayNameShort = "Burst"
 att.isBG = true
 att.SpeedDec = 3
 
-att.statModifiers = {DamageMult = 0.05,
+att.statModifiers = {DamageMult = -0.09,
 AimSpreadMult = -1,
 RecoilMult = -0.1,
 FireDelayMult = -0.6,
