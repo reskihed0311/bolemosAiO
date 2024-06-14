@@ -8,8 +8,8 @@ if CLIENT then
 	SWEP.PrintName = "M1911"
 	SWEP.UseHands = true
 	
-    SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_bolemos_p99")
-	killicon.Add( "cwr_bolemos_p99", "vgui/entities/cwr_bolemos_p99", Color(255, 0, 0, 0))
+    SWEP.SelectIcon = surface.GetTextureID("vgui/entities/cwr_bolemos_1911")
+	killicon.Add( "cwr_bolemos_1911", "vgui/entities/cwr_bolemos_1911", Color(255, 0, 0, 0))
 	
 	SWEP.MuzzleEffect = "muzzleflash_pistol"
 	SWEP.PosBasedMuz = false
